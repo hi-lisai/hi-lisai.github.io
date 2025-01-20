@@ -22,8 +22,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://hi.lisai.cloudns.org" #
-baseurl:
+url: "https://hello-lisai.github.io" #
+baseurl: "/site"  # 设置为您的仓库名称
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
