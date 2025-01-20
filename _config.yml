@@ -23,7 +23,7 @@ author:
 
 # URL settings
 url: "https://hello-lisai.github.io/site" #
-baseurl: "/site"  # 设置为您的仓库名称
+baseurl: "https://hello-lisai.github.io/site"  # 设置为您的仓库名称
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
