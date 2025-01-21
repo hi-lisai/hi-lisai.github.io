@@ -92,7 +92,7 @@ layout: compress
     document.getElementById('input2').value = '';     
 
     if (input1.trim() !== '' && input2.trim() !== '' && input1.length <= 50 && input2.length <= 50) {
-        fetch('https://9.013145.xyz{{page.id}}', {
+        fetch('https://message.lisai.us.kg{{page.id}}', {
             method: 'PUT',
             headers: {
                 'Content-Type': 'application/json'
@@ -123,7 +123,7 @@ layout: compress
 <script>
 function fetchData() {
      document.getElementById('output').innerText = "正在获取评论";
-    fetch('https://9.013145.xyz{{page.id}}')
+    fetch('https://message.lisai.us.kg{{page.id}}')
       .then(response => response.json())
       .then(data => {
         console.log('读取到的所有数据：', data);
