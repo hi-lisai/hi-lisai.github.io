@@ -23,7 +23,7 @@ author:
 
 # URL settings
 url: "https://hello-lisai.github.io"
-baseurl: "/site"
+baseurl: "https://hello-lisai.github.io/site"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
